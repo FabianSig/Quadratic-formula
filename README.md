@@ -5,3 +5,5 @@ A very simple way to implement the quadratic formular into python using tkinter.
 ![alt text](https://raw.githubusercontent.com/FabianSig/Quadratic-formula/main/pictures/formula_2.JPG?raw=true)
 
 This was one of my first python scripts using tkinter to create a gui.
+
+I created this script around summer 2020.
